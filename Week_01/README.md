@@ -27,5 +27,5 @@
 ## 下周预习
 ### 预习题目：
 * [有效的字母异位词](../Week_02/242.valid-anagram.py3)
-* 二叉树的中序遍历
+* [二叉树的中序遍历](../Week_02/94.binary-tree-inorder-traversal.py3)
 * 最小的 k 个数
