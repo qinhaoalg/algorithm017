@@ -13,4 +13,5 @@
 *   [N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)（亚马逊在半年内面试中考过）
 *   [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)（亚马逊在半年内面试中考过）
     *   [589.n-ary-tree-preorder-traversal.c](589.n-ary-tree-preorder-traversal.c)
+    *   [589.n-ary-tree-preorder-traversal.py3](589.n-ary-tree-preorder-traversal.py3)
 *   [N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
