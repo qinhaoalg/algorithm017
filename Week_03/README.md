@@ -1,4 +1,6 @@
-学习笔记
+## 学习笔记
+* 之前做过的同一道题目多做了几遍，感觉就有了，读书百遍其义自现的感觉
+* 
 
 ## 预习题目：
 * [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) 
