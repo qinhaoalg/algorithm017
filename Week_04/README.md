@@ -8,6 +8,7 @@
 
 *   [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)（亚马逊在半年内面试中考过）
 *   [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) （亚马逊、字节跳动、微软在半年内面试中考过）
+    *   [solution122](solution122)
 *   [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)（亚马逊在半年内面试中考过）
 *   [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/)
 *   使用二分查找，寻找一个半有序数组 [4, 5, 6, 7, 0, 1, 2] 中间无序的地方  
